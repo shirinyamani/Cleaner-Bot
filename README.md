@@ -1,5 +1,5 @@
 # Template for Telegram Bot
-Template for creating Telegram Bots
+Telegram Bot for deleteing the "Joint/left" messages from groups. 
 # How to run?
 
 1. Export Python path via: `PYTHONPATH=${PWD}`
