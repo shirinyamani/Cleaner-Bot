@@ -1,4 +1,5 @@
-# Template for Telegram Bot
+
+# Template for ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) Bot
 Telegram Bot for deleteing the "Joint/left" messages from groups. 
 # How to run?
 
